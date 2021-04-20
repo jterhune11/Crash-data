@@ -13,3 +13,5 @@
 * Version control
 
 Let's try a pull request
+
+### Kenny left a invitation at your gate. "Do you want to join Poet Society? Do visit my Github!"
